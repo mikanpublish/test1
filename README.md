@@ -8,3 +8,5 @@ feature-C
 
 morning add
 git config --global push.default simple記念
+
+auto issue close fixed
